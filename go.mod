@@ -1,3 +1,3 @@
-module example.com/hello
+module github.com/pankajworks/learn-go
 
 go 1.15
